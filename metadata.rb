@@ -1,0 +1,7 @@
+name             'tinc'
+maintainer       'Fernando Mumbach'
+maintainer_email 'fermuch@cryptolab.net'
+license          'GPL2'
+description      'Installs/Configures tinc'
+long_description 'Installs/Configures tinc'
+version          '0.1.0'
